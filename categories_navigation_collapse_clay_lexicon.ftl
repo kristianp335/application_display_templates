@@ -2,6 +2,7 @@
 	<#list entries as curVocabulary>
 		<ul class="nav nav-nested">
 			<li class="nav-item">
+			
 				<a aria-controls="navCollapse01" aria-expanded="false" style="background-color: #d0dde5; border: solid 1px #c0ccd3;" class="collapsed collapse-icon nav-link" data-toggle="collapse" href="#navCollapse01" role="button">
 				<b>${curVocabulary.name}</b>
 					<span class="collapse-icon-closed">
