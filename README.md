@@ -1,4 +1,4 @@
-# application_display_templates
+# Liferay Application Display Templates
 Note in the categories navigation template you may need to change the path to the Lexicon svg icons. Should be self explanatory.
 
 FAQ structure and template is not an ADT it is a content structure and template. But it lives here because they are similar to ADT. 
